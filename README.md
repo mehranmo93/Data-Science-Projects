@@ -1,6 +1,31 @@
 # Data Science Projects
 ![](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
-Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, machine learning, and visualization.
+# Cloned Repositories
+
+Welcome to my GitHub profile! You'll notice that I have several repositories here that are clones of various open source projects. I want to take a moment to clarify the purpose of these repositories.
+
+## Purpose
+
+These cloned repositories serve primarily as a platform for my personal practice and learning. I have created them to:
+
+- Explore and familiarize myself with different coding styles, project structures, and technologies.
+- Experiment with implementing features, making changes, and debugging code.
+- Gain insight into how real-world projects are organized and maintained.
+
+## Contributions
+
+It's important to note that I have not made any substantial contributions to the original projects. These repositories are mainly for my educational purposes, and I have not claimed to be a contributor to the original projects in any way.
+
+## Transparency
+
+I value transparency and want to be upfront about the purpose of these repositories. If you have any questions or would like to discuss my involvement in specific projects, please don't hesitate to reach out. 
+
+## Thank You
+
+Thank you for visiting my GitHub profile. I hope you find my practice and learning journey interesting. Feel free to explore my personal projects and contributions as well. If you're interested in collaborating or have any feedback, please don't hesitate to contact me.
+
+Happy coding!
+
 
  ![GitHub Repo stars](https://img.shields.io/github/stars/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)  ![GitHub forks](https://img.shields.io/github/forks/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)
 
